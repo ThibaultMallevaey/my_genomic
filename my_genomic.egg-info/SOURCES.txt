@@ -1,0 +1,14 @@
+setup.py
+genomic/__init__.py
+genomic/__main__.py
+genomic/genomic.py
+genomic/test_is_identifiant.py
+genomic/test_parse_fasta.py
+genomic/test_read_file.py
+genomic/tools/__init__.py
+genomic/tools/tool.py
+my_genomic.egg-info/PKG-INFO
+my_genomic.egg-info/SOURCES.txt
+my_genomic.egg-info/dependency_links.txt
+my_genomic.egg-info/entry_points.txt
+my_genomic.egg-info/top_level.txt
